@@ -1,0 +1,100 @@
+.green { background-color:#b9fa1a;}
+.brown { background-color:#e45c10;}
+.tan { background-color:#ffa044;}
+
+#screen {
+    display: inline-block;
+    position: relative;
+    width:50%;
+    background-color: #000000;
+
+}
+
+header {
+    position: absolute;
+    top:0;
+    left:0;
+    height: 25%;
+    width: 100%;
+}
+
+#playable-area {
+    position: absolute;
+    left:0;
+    bottom:0;
+    background-color: #fcd8a8;
+    height: 75%;
+    width:100%;
+}
+
+#screen-dummy {
+    padding-top: 93.75%;
+}
+
+
+#link {
+    width: 7.421875%;
+    height: 10.5555555555556%;
+    position:absolute;
+    background-image: url('sprite/sprite-sheet.png');
+    background-repeat: no-repeat;
+    background-size:950% auto;
+}
+
+.link-front {
+    background-position: 0% 100%;
+}
+
+.link-front-alt {
+    background-position: 0% 5.2631579%;
+}
+
+.link-right {
+    background-position: 12.5% 100%;
+}
+
+.link-right-alt {
+    background-position: 12.5% 5.2631579%;
+}
+
+.link-left {
+    background-position: 25% 100%;
+}
+
+.link-left-alt {
+    background-position: 25% 5.2631579%;
+}
+
+.link-back {
+    background-position: 37.5% 100%;
+}
+
+.link-back-alt {
+    background-position: 37.5% 5.2631579%;
+}
+
+.link-sword-front {
+    height: 16.666666666667% !important;
+    background-position: 49.342105263% 5.2631579%;
+}
+
+.link-sword-back {
+    height: 16.666666666667% !important;
+    margin-top:-5.1111111111%;
+    background-position: 61.842105263% 100%;
+}
+
+.link-sword-right {
+    width: 11.328125% !important;
+    background-position: 80% 100%;
+    background-size: auto 200% !important;
+
+}
+
+.link-sword-left {
+    width: 11.328125% !important;
+    background-position: 100% 100%;
+    background-size: auto 200% !important;
+    margin-left:-4.5%;
+}
+

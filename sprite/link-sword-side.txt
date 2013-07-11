@@ -1,0 +1,15 @@
+xxxxxxggggxxxxx
+xxxxgggggbbbbxx
+xxxggtggbbbbbbx
+xxxggttbbbbbbxx
+xxgggtttbttgtxx
+xgggbbttbttbttt
+xgxxbbbttttttxx
+xxxxgggggtttttt
+xxxggbbbbbbtttt
+xxxgbbbbbbbttgt
+xxggbbbbbbbgxxx
+xggggbbbgggbbxg
+bbggggggbbbbbxx
+bbbgggggggggbbx
+xbbbxxxxxxxbbbb
