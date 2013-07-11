@@ -29,7 +29,7 @@
     },
 
     actionTimer: {
-      "walk": {"delay": 64, "timer": 64},
+      "walk": {"delay": 86, "timer": 64},
       "sword": {"delay": 100, "timer": 100},
     },
 
